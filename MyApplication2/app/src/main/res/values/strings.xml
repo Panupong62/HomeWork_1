@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pro_name">Panupong Suksong</string>
+    <string name="pro_viw">623410009-6</string>
+    <string name="consultant">consultant:DaKanda Sornin</string>
+    <string name="Mail">Mail:Panupong@Kkumail.com</string>
+    <string name="Profile">Profile</string>
+    <string name="back">back</string>
+    <string name="facebook">facebook:Panupong Suksong</string>
+    <string name="IG">IG:Panupond.Suksong</string>
+    <string name="Phon">0610953083</string>
+    <string name="e_1">EducationalRecord:Bachelor degree</string>
+    <string name="address">address:17/1 Moo 3, Na Ngam Subdistrict, Renu District, Nakhon Phanom Province</string>
+</resources>
